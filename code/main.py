@@ -6,11 +6,11 @@ s2 = Pin(2, Pin.OUT)
 s1 = Pin(12, Pin.OUT)
 s0 = Pin(13, Pin.OUT)
 
-out = ADC(Pin(34))
+out = Pin(19, Pin.IN)
 
 blue = PWM(Pin(18))
-red = PWM(Pin(5))
-green = PWM(Pin(10))
+red = PWM(Pin(10))
+green = PWM(Pin(9))
 
 blue.freq(1000)
 blue.duty(512)
