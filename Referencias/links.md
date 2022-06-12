@@ -9,3 +9,5 @@
 [Teoria e aplicações](https://www.bestech.com.au/blogs/understanding-colour-sensors-working-principle-and-applications/)
 
 [Tutorial sobre interface do sensor](https://www.youtube.com/watch?v=jzaj6iT7XJc&t=4s)
+
+[Como calibrar o sensor de cor](https://arduinoplusplus.wordpress.com/2015/07/15/tcs230tcs3200-sensor-calibration/)
