@@ -167,7 +167,6 @@ def loop():
                         "Enter 'v' to switch measurement display... \n")
         if command == "c":
             print("Interrupt measurement timer...")
-            measure_timer.deineasurement timer...")
             measure_timer.deinit() # Stop normal measurement
             calibration() # Proceed with calibration
             print("Resume measurement timer...")
