@@ -1,0 +1,22 @@
+cor   RGB
+
+vermelho (27, 132, 21)
+verde (57, 78, 147)
+azul (83, 16, 37)
+roxo (118, 131, 53)
+laranja (100, 255, 141)
+
+
+
+345-15  red
+15 - 45 orange
+45 - 75 yellow
+75 - 105 chartreuse
+105-135 green
+135 - 165 turquoise
+165 - 195 cyan
+195 - 225 azure
+225 - 255 blue
+255 - 285 purple
+285 - 315 magenta
+315 - 345 crimson
